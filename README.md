@@ -1,3 +1,8 @@
+# Tech Stack
+- Vue JS 3
+- Tailwind CSS
+- Axios
+
 # learn-vue-frontend
 
 This template should help get you started developing with Vue 3 in Vite.
